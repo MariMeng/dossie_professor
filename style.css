@@ -1,0 +1,42 @@
+.titulo {
+    margin: 0;
+    padding: 10px 20px;
+    height: 900px;
+    background-color: rgb(207, 235, 226);
+    text-align: center;
+}
+
+.titulo h1{
+    margin-top: 20%;
+    font-size: 100px;
+}
+
+.resumo{
+    height: 900px;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: center;
+
+}
+
+.sobre{
+    margin-left: 30px;
+    width: 800px;
+}
+
+.resumo img {
+    border-radius: 190px;
+    height: 400px;
+}
+
+
+.formacao_academica {
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    height: 900px;
+}
+img_icon{
+
+}

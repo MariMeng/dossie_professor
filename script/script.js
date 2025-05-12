@@ -87,12 +87,10 @@ xhttp.onload = function(){
        fala.innerHTML = "Nível de Fala: "+ idioma[i].getAttribute("FALA");
        escrita.innerHTML = "Nível de Escrita: "+ idioma[i].getAttribute("ESCRITA");
        compreensao.innerHTML = "Nível de Compreensão: "+ idioma[i].getAttribute("COMPREENSAO");
-
        idiomas_div.append(nome, leitura, fala, escrita, compreensao)
        
     }
 
-    
     //anais congresso
     for(let i = 0;i<trabalho.length;i++){
        var titulo = document.createElement('h3')
@@ -307,4 +305,3 @@ xhttp.onload = function(){
 xhttp.open("GET", "doc_lattes/carolina_lattes.xml", true)
 
 xhttp.send();
-

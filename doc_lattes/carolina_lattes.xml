@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CURRICULO-VITAE>
+    <DADOS-GERAIS 
+        NOME-COMPLETO="Carolina Yukari Watanabe" SEXO="FEMININO">
+        <RESUMO-CV TEXTO-RESUMO-CV-RH="Cursou Bacharelado em Matemática Aplicada e 
+        Computação Cientifica (2006), Licenciatura em Matemática (2007), Mestrado (2007) 
+        e Doutorado (2013) em Ciência da Computação e Matemática Computacional pela 
+        Universidade de São Paulo. Atualmente é professora Associada II no Departamento 
+        de Ciências da Computação da Universidade Federal de Rondônia. Na área de 
+        Computação, atua na área de visão computacional, processamento de imagens digitais 
+        e aprendizado de máquina. Na área de Ciências Sociais Aplicadas e Interdisciplinar, 
+        realiza estudos sobre impactos do uso de TICs nas relações de negócios, sociais, 
+        econômicas e nos processos de tomada de decisão. Atualmente ministra aulas nos 
+        cursos de Ciência da Computação e no Mestrado de Direitos Humanos e Acesso à 
+        Justiça - DHJUS/UNIR."/>
+        <FORMACAO-ACADEMICA-TITULACAO>
+            <GRADUACAO 
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e Computação, ICMC-USP, Brasil." 
+                NOME-CURSO="Matemática Aplicada e Computação Cientifica." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2002" 
+                ANO-DE-CONCLUSAO="2005"
+            />
+             <GRADUACAO 
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação, ICMC-USP, Brasil." 
+                NOME-CURSO="Licenciatura em Matemática"
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2006" 
+                ANO-DE-CONCLUSAO="2007"
+            />
+            <MESTRADO 
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e Computação, ICMC-USP, Brasil." 
+                NOME-CURSO="Ciência da Computação e Matemática Computacional"
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2006" 
+                ANO-DE-CONCLUSAO="2007"
+            />
+            <DOUTORADO 
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e Computação, ICMC-USP, Brasil." 
+                NOME-CURSO="Ciência da Computação e Matemática Computacional" 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2008" 
+                ANO-DE-CONCLUSAO="2013"
+            />
+        </FORMACAO-ACADEMICA-TITULACAO>
+        <ATUACOES-PROFISSIONAIS>
+        <ATUACAO-PROFISSIONAL NOME-INSTITUICAO="Universidade Federal De Rondônia" >
+            <VINCULOS 
+            TIPO-DE-VINCULO="SERVIDOR PUBLICO" 
+            CARGA-HORARIA-SEMANAL="40" 
+            ANO-INICIO="1992" 
+            ANO-FIM="1995" 
+            OUTRAS-INFORMACOES="Lotado no Departamento de Ciências da Computação"/>
+        </ATUACAO-PROFISSIONAL>
+        </ATUACOES-PROFISSIONAIS>
+        <IDIOMAS>
+            <IDIOMA 
+            NOME-IDIOMA="Inglês"
+            LEITURA="BOM"
+            FALA="BOM"
+            ESCRITA="BOM"
+            COMPREENSAO="BOM"/>
+            <IDIOMA 
+            NOME-IDIOMA="Espanhol"
+            LEITURA="REGULAR"
+            FALA="FRACO"
+            ESCRITA="FRACO"
+            COMPREENSAO="REGULAR"/>
+        </IDIOMAS>
+    </DADOS-GERAIS>
+    <PRODUCAO-BIBLIOGRAFICA/><PRODUCAO-TECNICA/>
+    <OUTRA-PRODUCAO>
+        <TRABALHO 
+            ANO="2024" 
+            AUTORES="SALES, N. F. C.; WATANABE, CAROLINA Y.V." 
+            TITULO="Segmenting Freshwater Fish Images with Convolutional Neural Networks" 
+            EVENTO="XV Workshop de Sistemas de Informação (WSIS 2024)" 
+            LOCAL="Rio Paranaíba/MG" 
+            PUBLICACAO="Anais do XV Workshop de Sistemas de Informação (WSIS 2024)" 
+            PAGINAS="28-32" 
+            EDITORA="SBCOpenLib" />
+        <TRABALHO 
+            ANO="2023" 
+            AUTORES="FONSECA, T. F. C.; WATANABE, C. Y. V.; MACIEL, J. G.; NOGUEIRA-BARBOSA, MARCELLO H.; TRAINA JUNIOR, C.; TRAINA, Agma Juci Machado; RAMOS, J. S." 
+            TITULO="Análise da influência do tamanho da região de interesse no diagnóstico auxiliado por computador de fraturas por fragilidade óssea" 
+            EVENTO="XXXVI Conference on Graphics, Patterns and Images - WORKSHOP DE TRABALHOS DA GRADUAÇÃO" 
+            LOCAL="Rio Grande, RS" 
+            PUBLICACAO="Anais Estendidos do XXXVI Conference on Graphics, Patterns and Images" 
+            PAGINAS="1-4" />
+
+        <TRABALHO 
+            ANO="2021" 
+            AUTORES="SANTOS, A. A. V.; WATANABE, C. Y. V.; SILVA, R. M. P." 
+            TITULO="ANÁLISE ESPACIAL PARA TOMADA DE DECISÃO NO CENÁRIO URBANO: uma revisão sistemática com o método prisma" 
+            EVENTO="XIII Congresso de Administração Sociedade e Inovação - CASI 2021" 
+            LOCAL="Evento online" 
+            PUBLICACAO="Anais do CASI 2021" 
+            PAGINAS="1-15"/>
+
+        <TRABALHO 
+            ANO="2021" 
+            AUTORES="ARRUDA, E. V. B.; Watanabe, Carolina Y. V." 
+            TITULO="TECNOLOGIAS MÓVEIS NO ATENDIMENTO AO CLIENTE: UM ESTUDO COM GESTORES DO AGRONEGÓCIO" 
+            EVENTO="V Encontro Internacional de Gestão, Desenvolvimento e Inovação (EIGEDIN)" 
+            LOCAL="Evento Online" 
+            PUBLICACAO="ANAIS DO V ENCONTRO INTERNACIONAL DE GESTÃO, DESENVOLVIMENTO E INOVAÇÃO - (V EIGEDIN)" 
+            VOLUME="5" 
+            PAGINAS="1-14" />
+
+        <TRABALHO 
+            ANO="2021" 
+            AUTORES="ARRUDA, E. V. B.; WATANABE, C. Y. V.; SILVA, R. M. P." 
+            TITULO="O USO DE TECNOLOGIA MÓVEL NO APOIO À TOMADA DE DECISÃO NO AGRONEGÓCIO" 
+            EVENTO="XVI Jornada Científica CEDSA" 
+            LOCAL="Remoto" 
+            PUBLICACAO="XVI Jornada Científica - CEDSA Superação Tecnológica Para Integração Da Amazônia: Situacionalidades Do Contexto" 
+            PAGINAS="435-448" />
+
+        <TRABALHO 
+            ANO="2020" 
+            AUTORES="BONACINA, G. Y.; Watanabe, Carolina Y. V.; SILVA, R. M. P." 
+            TITULO="Percepção dos profissionais de TI sobre a resistência dos usuários ao uso de novos sistemas" 
+            EVENTO="XLIV ENCONTRO DA ANPAD - EnANPAD 2020" 
+            LOCAL="Evento online" 
+            PUBLICACAO="Anais" 
+            PAGINAS="1-16" />
+
+        <TRABALHO 
+            ANO="2020" 
+            AUTORES="SONG, W.; DORIA, C. R. C.; WATANABE, C. Y. V." 
+            TITULO="Fish Detection and Measurement based on Mask R-CNN" 
+            EVENTO="WORKSHOP DE TRABALHOS DA GRADUAÇÃO - CONFERENCE ON GRAPHICS, PATTERNS AND IMAGES (SIBGRAPI)" 
+            LOCAL="Virtual Conference" 
+            PUBLICACAO="Anais Estendidos do XXXIII Conference on Graphics, Patterns and Images" 
+            VOLUME="33" 
+            PAGINAS="183-186" />
+
+        <TRABALHO 
+            ANO="2020" 
+            AUTORES="OLIVEIRA, C. L.; Watanabe, Carolina Y. V.; MORAIS, F. R." 
+            TITULO="DETERMINANTES PARA ESCOLHA DE SERVIÇOS BANCÁRIOS: Uma revisão da literatura" 
+            EVENTO="XXIII Seminários em Administração - SemeAd" 
+            LOCAL="São Paulo - evento remoto" 
+            PUBLICACAO="Anais XXIII Semead 2020" 
+            PAGINAS="1-16"/>
+    </OUTRA-PRODUCAO>
+    <DADOS-COMPLEMENTARES>
+        <FORMACAO-COMPLEMENTAR>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Universidade Federal de Rondônia"
+                NOME-CURSO="Extensão universitária em PALOMAKOBA - Capacitação e des.de softwares 
+                para dispositivos móveis" 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2021" 
+                ANO-DE-CONCLUSAO="2022"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Faculdade de Economia, Administração e Contabilidade - USP, FEAC/USP, Brasil."
+                NOME-CURSO="Entrevistas: fazer, analisar, teorizar." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2018" 
+                ANO-DE-CONCLUSAO="2018"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Faculdade de Economia, Administração e Contabilidade - USP, FEAC/USP"
+                NOME-CURSO="Análise de conteúdo e o uso do software nVivo." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2017" 
+                ANO-DE-CONCLUSAO="2017"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Universidade Federal do Rio Grande do Norte, UFRN, Brasil"
+                NOME-CURSO="Minicourse CUDA Programming." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2017" 
+                ANO-DE-CONCLUSAO="2017"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação (USP), ICMC-USP, Brasil."
+                NOME-CURSO="Extensão universitária em Mineração de Dados Temporais." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2010" 
+                ANO-DE-CONCLUSAO="2010"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação (USP), ICMC-USP, Brasil."
+                NOME-CURSO="Extensão universitária em Inferência Bayesiana: Aspectos Computacionais." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2008" 
+                ANO-DE-CONCLUSAO="2008"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação (USP), ICMC-USP, Brasil."
+                NOME-CURSO="Extensão universitária em Introduction to Information Retrieval." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2008" 
+                ANO-DE-CONCLUSAO="2008"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação, ICMC-USP, Brasil"
+                NOME-CURSO="Extensão universitária em Reconhecimento Estrutural de Padrões." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2008" 
+                ANO-DE-CONCLUSAO="2008"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Universidade Federal do Espírito Santo, UFES, Brasil."
+                NOME-CURSO="Conceitos de Mineração de Dados Multimídia." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2008" 
+                ANO-DE-CONCLUSAO="2008"/>
+            <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO  
+                NOME-INSTITUICAO="Instituto de Ciências Matemáticas e de Computação (USP), ICMC-USP, Brasil."
+                NOME-CURSO="Extensão universitária em Utilizando Latex para Produção de Textos científic." 
+                STATUS-DO-CURSO="CONCLUIDO" 
+                ANO-DE-INICIO="2006" 
+                ANO-DE-CONCLUSAO="2006"/>
+        </FORMACAO-COMPLEMENTAR>
+        <LINHAS-DE-PESQUISA>
+            <LINHA 
+            NOME="Estratégia, Gestão e Tecnologia em Organizações" 
+            OBJETIVO="Engloba estudos sobre estratégia organizacional, criação de valor, desenvolvimento de competências e de tecnologia, sem deixar de considerar a relação com o desenvolvimento social e a sustentabilidade como consequência de fenômenos organizacionais. Estudos sobre empreendedorismo, redes de inovação e gestão socioambiental são também centrais nesta linha de pesquisa."/>
+            <LINHA 
+            NOME="Recuperação de Imagens por Conteúdo, Processamento Digital e Análise de Imagens Médicas e Mineração de Imagens"/>
+            <LINHA 
+            NOME="Políticas Públicas e Desenvolvimento da Justiça" 
+            OBJETIVO="Investigar e propor soluções para o aperfeiçoamento das instituições do sistema de justiça. Revisar e reconstruir práticas institucionalizadas e políticas públicas para efetivação de direitos, estudando novos meios e procedimentos com o uso da tecnologia e com a aplicação de metodologias inovadoras. Pesquisar e propor respostas para as dificuldades de acesso e humanização da justiça em razão das limitações impostas à melhor gestão e solução eficaz de demandas na região amazônica ocidental. Construir parâmetros científicos para combater a fragilidade econômica, a corrupção, o aumento da criminalidade e do crime organizado e outros problemas correlatos que afetam o desenvolvimento amazônico em áreas transversais de relacionamento com o sistema de justiça, tais como a segurança pública, sustentabilidade, organização social do espaço urbano e rural, a saúde, a economia e a educação."/>
+        </LINHAS-DE-PESQUISA>
+        <PROJETOS-DE-PESQUISA>
+            <PROJETO 
+                ANO-INICIO="2025" 
+                ANO-FIM="" 
+                SITUACAO="EM_ANDAMENTO" 
+                NOME="Mapeamento das violências contra mulheres e o papel das tecnologias no combate a estas práticas" 
+                NATUREZA="Pesquisa" 
+                DESCRICAO="O presente projeto de pesquisa aborda o tema da violência contra mulheres, com foco na identificação de suas principais formas e na análise do papel das tecnologias no combate a essas práticas. O problema investigado refere-se à persistência das diversas formas de violência de gênero, muitas vezes invisibilizadas, e à insuficiência de dados sobre o uso de tecnologias no enfrentamento desse fenômeno em Porto Velho, RO. O objetivo geral da pesquisa é investigar os tipos de violência contra mulheres, realizar um mapeamento local e identificar o impacto das tecnologias utilizadas nesse contexto. Justifica-se o estudo pela relevância do tema no combate às desigualdades de gênero e pela necessidade de compreender o cenário local para subsidiar políticas públicas eficazes. A pesquisa será delimitada espacialmente à cidade de Porto Velho, RO, e temporalmente entre os anos de 2020 e 2025. A metodologia adotará uma abordagem mista, com natureza descritiva e exploratória. Quanto aos objetivos, a pesquisa será dividida em três fases: (i) revisão sistemática da literatura sobre os tipos de violência contra mulheres, com base em trabalhos como os de Garcia e Vidal (2020) e Silva e Souza (2023); (ii) mapeamento das violências em Porto Velho, combinando dados estatísticos e qualitativos; e (iii) identificação das tecnologias utilizadas no combate à violência, com base em estudos de caso. Espera-se que os resultados incluam um mapeamento detalhado das violências e a análise das contribuições tecnológicas no enfrentamento desse problema, promovendo impactos sociais, econômicos e inovações no estado da arte sobre o tema."
+                />
+            <PROJETO 
+                ANO-INICIO="2024" 
+                ANO-FIM="" 
+                SITUACAO="EM_ANDAMENTO" 
+                NOME="Tecnologia, Trabalho e Sistema de Justiça: desafios e intervenções no contexto contemporâneo" 
+                NATUREZA="Pesquisa" 
+                DESCRICAO="O avanço tecnológico, marcado pela automação e inteligência artificial, tem redefinido o panorama do mercado de trabalho, apresentando novos desafios para as relações laborais e os direitos dos trabalhadores. Nesse contexto, é crucial investigar como essas mudanças afetam diferentes aspectos do trabalho e como o sistema de justiça pode intervir para garantir a proteção dos trabalhadores. O lócus de pesquisa será os estados de Rondônia e Acre, situados na Amazônia Ocidental, uma região com particularidades socioeconômicas e culturais que incluem populações vulneráveis como quilombolas, ribeirinhos, refugiados e indígenas. Rondônia e Acre enfrentam um cenário de violações sistêmicas de direitos humanos relacionadas ao mundo do trabalho, destacando a necessidade de investigar e abordar essas questões de maneira eficaz. Além disso, a geração e organização de um banco de dados sobre trabalho, com o mapeamento de violações sistêmicas na região, são fundamentais para embasar políticas públicas e ações do sistema de justiça voltadas para a proteção dos trabalhadores. Assim, este projeto tem como objetivo investigar os impactos da tecnologia no trabalho e as violações sistêmicas de direitos humanos em Rondônia e Acre, além de analisar as intervenções do sistema de justiça para enfrentar esses desafios. Como objetivos específicos, tem-se: (i) investigar o impacto da automação e inteligência artificial no mercado de trabalho em Rondônia e Acre; (ii) explorar os desafios legais e regulatórios do teletrabalho na região, incluindo questões de segurança, remuneração adequada e direito à desconexão; (iii) investigar as questões de proteção de dados pessoais e privacidade dos trabalhadores diante do aumento do monitoramento tecnológico no local de trabalho; (iv) explorar como o assédio e discriminação ocorrem no ambiente virtual de trabalho em Rondônia e Acre, e examinar as estratégias do sistema de justiça para prevenir e combater essas práticas ilegais; (v) investigar os desafios enfrentados pelos trabalhadores da economia gig na região, em termos de direitos trabalhistas e segurança no trabalho; (vi) explorar as implicações trabalhistas de novas formas de trabalho em Rondônia e Acre, como trabalho remoto e sob demanda; (vii) investigar o papel da tecnologia na capacitação e desenvolvimento profissional dos trabalhadores na região, e analisar como o sistema de justiça pode promover políticas e práticas que garantam a inclusão digital e a igualdade de oportunidades. Como metodologia, este projeto utilizará uma abordagem mista de pesquisa, combinando levantamento de dados quantitativos e qualitativos. Será realizado um mapeamento das violações sistêmicas de direitos humanos relacionadas ao trabalho em Rondônia e Acre, com a geração e organização de dados específicos. Além disso, serão realizadas análises documentais, revisão bibliográfica e entrevistas com stakeholders relevantes. Os resultados da pesquisa serão utilizados para subsidiar recomendações e intervenções do Ministério Público do Trabalho na região." />
+            <PROJETO 
+                ANO-INICIO="2023" 
+                ANO-FIM="" 
+                SITUACAO="EM_ANDAMENTO" 
+                NOME="ICTIOBIOMETRIA: aplicativo de medição de peixes para auxílio ao monitoramento pesqueiro usando redes neurais profundas" 
+                NATUREZA="Pesquisa" 
+                FINANCIADOR="CNPq"
+                DESCRICAO="O objetivo deste trabalho é desenvolver novos algoritmos de aprendizado de máquina, baseado em aprendizagem profunda (deep learning), para detecção e medição automática de peixes para auxílio ao processo de monitoramento pesqueiro. Este projeto teve início no interstício de 2020-2021 e houve um alto impacto junto à comunidade científica de biologia, que ficou muito interessada em usar o aplicativo desenvolvido. Entretanto, realizando testes em ambiente real, foi verificado que os processos de identificação de peixes e medição não estão apurados o suficiente a ponto das medidas serem aceitas pelos pesquisadores. Assim, são necessárias novas técnicas, mais robustas, a fim de garantir a acurácia da medição do aplicativo para que possa ser usado pelos pesquisadores da rede da Amazônia. O uso de redes neurais profundas têm se mostrado eficientes na tarefa de identificação de diversos objetos, e, por isso, neste projeto serão implementadas redes já propostas na literatura como criadas novas redes para a tarefa específica de identificação de peixes. Outros desafios estão relacionados ao processo de medição. Alguns dos peixes possuem curvatura, o posicionamento da câmera também pode causar distorções na imagem adquirida, ruídos de iluminação também foram um dos principais problemas encontrados. Todos esses desafios serão tratados por técnicas de processamento de imagens digitais, com o desenvolvimento de novos métodos, já que os aplicados da literatura não foram suficientes para proporcionar a acurácia aceita. Este é um projeto inserido nas estratégias IV - para Desenvolvimento Sustentável (setores: VI - Monitoramento, prevenção e recuperação de desastres naturais e ambientais); e II - Habilitadoras (setor I - Inteligência Artificial; VII - Preservação Ambiental.) ; VI - para Promoção, Popularização e Divulgação da Ciência, Tecnologia e Inovação. Este projeto acontece em parceria com o Laboratório de Ictiologia e Pesca da Universidade Federal de Rondônia." />
+            <PROJETO 
+                ANO-INICIO="2021" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Desenvolvimento de sistema de auxílio ao diagnóstico de COVID-19 usando imagens e inteligência artificial" 
+                NATUREZA="Pesquisa" 
+                FINANCIADOR="CNPq"
+                DESCRICAO=" O objetivo deste projeto de pesquisa é propor e desenvolver novos algoritmos e métodos computacionais a fim de darem suporte ao processo de tomadade decisão no diagnóstico médico de pacientes no contexto da COVID-19. Esses algoritmos e métodos serão disponibilizados à comunidade científica emédica por meio de aplicativos e/ou sistemas computacionais web. Os desafios abordados aqui são (i) a organização de base de dados e imagens vindosde diferentes plataformas, apresentando muitas vezes dados incompletos e técnicas de obtenção de imagens distintas; (ii) a proposição de descritores decaracterísticas de imagens de RX e de Tomografia Computadorizada (TC), quantitativas e qualitativas, combinando a técnica radiômica, de maneira quetais características possam trazer informações necessárias para a realização do diagnóstico de COVID-19; (iii) a segmentação automática de imagens depulmão e identificação de achados clínicos relacionados à Covid-19. As vantagens desta abordagem que será investigada são (i) o baixo custo de examesde RX comparado a outros exames para detectar COVID-19, bem como a maior disponibilidade deste tipo de exame de imagem, permitindo, então, quemais pacientes sejam beneficiados; (ii) o suporte ao diagnóstico para médicos, residentes e estudantes de medicina, sendo que este sistema pode servirpara treinamento de novos médicos ou servir como um segundo especialista (segunda opinião) aos mais experientes; (iii) a disponibilização de uma basede dados organizada para a comunidade da área. Neste sentido, o projeto se enquadra em duas das áreas de tecnologias prioritárias definida pelo MCTIC:Tecnologias Habilitadoras, por conta do uso de técnicas de inteligência artificial, e Tecnologias para Qualidade de Vida, no setor de saúde." />
+            <PROJETO 
+                ANO-INICIO="2021" 
+                ANO-FIM="2022" 
+                SITUACAO="CONCLUIDO" 
+                NOME="DERUN - Pesquisa e desenvolvimento de sistema para definição de rotas eficientes em redes urbanas" 
+                NATUREZA="Pesquisa" 
+                CERTIFICADO="Projeto certificado pela empresa MOTOROLA MOBILITY COMERCIO DE PRODUTOS ELETRONICOS LTDA em 20/12/2021" 
+                DESCRICAO="O objetivo principal do projeto é desenvolver e estabelecer competências na UNIR em sistemas para definição de rotas eficientes em redes urbanas, através da realização de atividades de pesquisa e desenvolvimento, de tal forma que o resultado da parceria contribua para a melhoria da tecnologia embarcada nos produtos do mercado e a consolidação do conhecimento nessa área para a indústria."/>
+            <PROJETO 
+                ANO-INICIO="2019" 
+                ANO-FIM="2024" 
+                SITUACAO="CONCLUIDO" 
+                NOME="O papel do uso de TI no desenvolvimento de competências socioemocionais" 
+                NATUREZA="Pesquisa" 
+                DESCRICAO="Com o intenso uso da tecnologia (TI) e surgimento de novas formas de trabalho, é necessário que alunos consigam se adaptar nas profissões já existentes e nas que ainda irão surgir. Para isso, estudos têm apontado que várias competências socioemocionais (CSE) devem ser desenvolvidas. Nesse contexto, escolas complementares à educação formal têm surgido propondo desenvolver este tipo de competência, por meio do uso de tecnologia. Portanto, pergunta-se: Como a tecnologia pode auxiliar no desenvolvimento de CSE? Assim, o objetivo geral é identificar o papel do uso de TI em escolas complementares para o desenvolvimento de CSE. Para isso, será necessário (i) identificar quais CSE são desenvolvidas nos alunos em escolas complementares, (ii) descrever como são desenvolvidas essas competências e (iii) identificar o papel da TI no desenvolvimento das CSE. Como metodologia será realizada pesquisa bibliográfica e estudo de caso em escola complementar que usa tecnologias para desenvolvimento de CSE. Serão realizadas observações, análise documental e entrevistas com a equipe escolar, alunos e pais. Os materiais serão analisados por meio de análise de conteúdo e triangulação dos dados. Como resultados espera-se relacionar as CSE e seu desenvolvimento por meio do uso de TI, reforçando propostas para consolidação de adoção e uso de TI, além de elaboração de material de fundamentação teórica nesta área."/>
+            <PROJETO 
+                ANO-INICIO="2019" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Desenvolvimento de aplicativo para smartphone para detecção e medição de peixes" 
+                NATUREZA="Pesquisa" 
+                FINANCIADOR="CNPq" 
+                DESCRICAO="O objetivo deste projeto é desenvolver um aplicativo para smartphone, com sistemaoperacional Android, para realizar medições automatizadas de peixes, por meio de fotodigital, obtida pela câmera do próprio smartphone. Este é um projeto em parceria com oLaboratório de Ictiologia e Pesca da Universidade Federal de Rondônia, para auxiliar noprocesso de medição de peixes da bacia do Rio Madeira, como um dos procedimentosnecessários para identificar padrões de migração reprodutivo e monitorar o impactoambiental causados por ações antrópicas na bacia. Atualmente esse processo é realizado no Mercado de Peixes de Porto Velho, RO, no qual os pesquisadores organizam os peixes, medem com fita métrica e anotam as medidas em uma planilha em papel. Infelizmente, quando o mercado está muito movimentado, não é possível fazerem essas medições e acabam perdendo as informações dos peixes daquele dia. Assim, a ideia do aplicativo seria automatizar esse processo, de maneira que esta medição seja realizada de maneira mais rápida e precisa, e que os dados coletados já fiquem tabuladosdigitalmente, agilizando o trabalho do pesquisador biólogo e atrapalhando menos o trabalho do pescador vendedor."/>
+        </PROJETOS-DE-PESQUISA>
+        <PROJETOS-DE-EXTENSAO>
+            <PROJETO 
+                ANO-INICIO="2024" 
+                ANO-FIM="2024" 
+                SITUACAO="CONCLUIDO" 
+                NOME="III Seminários em IA e II Seminários em Processamento de Imagens" 
+                NATUREZA="Extensão"
+                DESCRICAO="O III Seminários em Inteligência Artificial e o II Seminários em Processamento de Imagens são uma ação de extensão do Departamento Acadêmico de Ciência da Computação que, este ano, serão realizados em conjunto. Paralelamente às disciplinas de Inteligência Artificial e Processamento de Imagens, os discentes das disciplinas são motivados a desenvolverem um software de aplicação em contextos reais usando as técnicas aprendidas nas disciplinas, bem como explorando outras que não foram abordadas. As orientações dos projetos desenvolvidos são realizadas pelos professores das disciplinas e acompanhadas fora do turno da aula, como atividade extra, complementar. Cada discente, assim, pode ter a experiência de implementar na prática os conceitos vistos, bem como desenvolverem habilidades sócio-emocionais como trabalho em equipe, liderança, resolução de problemas, desenvolvimento de software em equipe dentre outros. Este ano o evento conta com a participação de convidados do Instituto Federal de Rondônia, para intercâmbio de pesquisas realizadas entre as instituições nessas áreas de atuação. Os temas estudados e desenvolvidos neste ano abordam os temas de linguagem brasileira de sinais, corretor ortográfico, análise de sentimentos, reconhecimento de placas de veículos, chatbot no contexto educacional, redução de bruma atmosférica"/>
+            <PROJETO 
+                ANO-INICIO="2023" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Curso de extensão: Fundamentos em Cibersegurança - 7a. Maratona cibereducação CISCO Brasil - 2023" 
+                NATUREZA="Extensão"
+                DESCRICAO="Este curso abrange conhecimentos essenciais para todos os domínios de cibersegurança, segurança de informações, segurança de sistemas, segurança de rede, ética e leis e técnicas de defesa e mitigação usadas na proteção de instituições públicas e privadas. A demanda por profissionais de segurança continua crescendo. Desenvolva uma compreensão fundamental dos crimes cibernéticos, princípios de segurança, tecnologias e procedimentos usados para defender redes. A Maratona CiberEducação Cisco Brasil oferece uma chance de aumentar a qualificação. A segurança cibernética é uma das principais preocupações dos governos e organizações em todo o mundo. Ao participar da Maratona e fazer o curso Fundamentos em Cibersegurança da Cisco Networking Academy, o aluno estará apto a concorrer a bolsas de estudos da fase de capacitação profissionalizante do Programa CiberEducação Cisco Brasil." />
+            <PROJETO 
+                ANO-INICIO="2023" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="FUNDAMENTOS DO PYTHON 1 - UNIR_OUT_2023" 
+                NATUREZA="Extensão"
+                DESCRICAO="Público-alvoO curso Python Essentials 1, com carga horária de 40 horas, foi desenvolvido para alunos que buscam adquirir habilidades fundamentais em Python e programação de computadores, incluindo: Alunos com pouco ou nenhum conhecimento prévio de programação; Estudantes de escolas secundárias, universidades e escolas profissionais; Profissionais da indústria que exploram tecnologias conectadas com Python, ou que utilizam Python como base para a construção de projetos complexos; Líderes de equipe, gerentes de produto e gerentes de projeto que desejam entender a terminologia e os processos no ciclo de desenvolvimento de software para gerenciar e se comunicar com mais eficácia com as equipes de TI, teste e desenvolvimento; Qualquer pessoa interessada em aprender a programar para fins divertidos ou relacionados ao trabalho.Pré-requisitosNão há pré-requisitos para este curso, embora seja útil possuir conhecimentos básicos de matemática. Todos os alunos são bem-vindos para se inscrever!Certificação AlinhamentoO curso Python Essentials 1 prepara os alunos para o PCEPTM Certified Entry-Level Python Programmer. A certificação PCEPTM (Exame PCEP-30-0x) é uma credencial profissional que mede a capacidade do candidato em realizar tarefas de codificação relacionadas aos fundamentos da programação na linguagem Python. Um candidato ao teste deve demonstrar conhecimento suficiente dos conceitos universais de programação de computadores, da sintaxe e semântica da linguagem Python, bem como das habilidades para resolver desafios típicos de implementação com a ajuda da Python Standard Library.Descrição do CursoO Python Essentials 1 foi desenvolvido pelo OpenEDG Python Institute e é fornecido a todos os públicos para aprimorar, desenvolver e dar suporte a carreiras profissionais em programação Python e tecnologias relacionadas. O curso cobre os fundamentos da programação Python, bem como conceitos e técnicas gerais de programação de computadores. O curso familiariza os alunos com a abordagem processual da programação e abrange os seguintes tópicos: Terminologia, conceitos e definições fundamentais Sintaxe, semântica e ambiente de tempo de execução básicos do Python Literais, variáveis, sistemas numéricos, operadores e tipos de dados Operações básicas de E/S Fluxo de controle: execução condicional e loops Coletas de dados: listas, tuplas, dicionários e strings Funções Exceções, solução de problemas e depuraçãoO curso é composto por 4 módulos. Os alunos têm acesso a materiais práticos, questionários e testes, bem como interagem com algumas tarefas e situações de programação da vida real - tudo para desenvolver as habilidades e conhecimentos adquiridos no curso..
+Situação: Concluído; Natureza: Extensão." />
+            <PROJETO 
+                ANO-INICIO="2023" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Curso Fundamentos do Python 1 - Turma #MARATONA_LATAM_2023_PYTHON_1_UNIR" 
+                NATUREZA="Extensão"
+                DESCRICAO= "Este curso envolve conceitos fundamentais de programação de computadores e desenvolvimento de habilidades de codificação com a linguagem de programação Python. Este curso ensina habilidades sob demanda, incluindo como projetar, desenvolver e melhorar programas de computador usando Python. Será realizado em parceria com a Cisco Networking Academy. O público-alvo são estudantes do ensino médio e universitários de 2 anos, além de público em geral. O tempo estimado para conclusão são 30 horas, endo que não há pré-requisitos. O curso será individualizado, com 4 encontros híbridos (presencial e a distância). Está organizado em 4 módulos e 30 laboratórios práticos, atividades interativas e questionários, um projeto de coroamento e um teste final. O curso prevê Selos digital do curso Python Essentials 1 da Cisco Networking Academy, e do Learn-A-Thon** para os alunos que alcançarem nota igual ou superior a 70 na primeira tentativa do exame final. Este é um curso que tem como certificação alinhada o PCEP: Certified Entry-Level Python Programmer Certification. Todo o material didático é fornecido pela Cisco NetAcademy, cabendo à Universidade Federal de Rondônia organizar e gerenciar o curso localmente, ministrar as aulas e dar suporte aos estudantes para a realização da capacitação.Palavras-Chave:Python, Algoritmos, tipos de dados, variáveis, operações de E/S, fluxo de controle, funçõesProgramação:O curso está dividido em 4 módulos, que ocorrerão de 24/04/2023 a 19/05/2023.A carga horária é de 30 horas, o curso é gratuito. Metodologia: Serão realizadas atividades interativas e 30 atividades práticas de laboratório, com cenários do mundo real, de maneira assíncrona. O material será posto na turma virtual de aprendizagem usando as ferramentas da Cisco Networking Academy. As atividades serão assíncronas. Haverá 4 encontros com a instrutora para tirar dúvidas nos seguintes dias, das 14h às 17h: 24/04/2023 - abertura e instruções (obrigatório, online, síncrono)28/04/2023 - dúvidas módulo I (opcional, modelo híbrido)05/05/2023 - dúvidas módulo II (opcional, modelo híbrido)12/05/2023 - dúvidas módulos III e IV. (opcional, modelo híbrido)A participação nos encontros híbridos é opcional. Haverá transmissão online e atendimento presencial no laboratório de informática da Universidade Federal de Rondônia.Avaliação: serão realizados questionários, bem como um projeto e um teste final, até dia 19/05/2023, de maneira remota/online. Os certificados de participação de carga horária serão emitidos pela UNIR, de maneira online no SIGAA, e os estudantes também receberão um certificado da Cisco NetAcademy de realização do curso, disponibilizados na plataforma de virtual de ensino, bem como os selos de certificação, caso obtenham nota superior a 70.Inscrições de 13/04 a 20/04 pelo SIGAA.Objetivos Gerais:O objetivo geral deste curso e ofertar capacitação em linguagem python a qualquer um que queira aprender programação.Resultados Esperados:Capacitar 20 alunos em programação em python nível básico, de maneira gratuita, permitindo o acesso à educação de qualidade."/>
+            <PROJETO 
+                ANO-INICIO="2022" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="PALOMAKOBA - Projeto de capacitação e desenvolvimento de softwares para dispositivos móveis" 
+                NATUREZA="Extensão" 
+                FINANCIADOR="Motorola Industrial Ltda. - Bolsa"
+                DESCRICAO=" É um projeto público-privado Palomakoba - Projeto de capacitação e desenvolvimento de softwares para dispositivos móveis, a ser executado no âmbito do Estado de Rondônia pela Universidade Federal de Rondônia (UNIR), através de incentivos da Motorola Mobility Comércio de Produtos Eletrônicos Ltda e Flextronics da Amazônia LTDA, regulamentados pela lei de informática. Este é um projeto de PD que visa a formação de profissionais na área de tecnologias de softwares para dispositivos móveis, com foco em alunos de graduação, pós-graduação e/ou profissionais de mercado com curso superior, a fim de atender demandas de recursos humanos reprimidas, atuais e de futuro no Estado de Rondônia e na região Norte. Além de contribuir com a capacitação de profissionais qualificados, que atendam às emergentes necessidades de organizações localizadas na região, o projeto oportuniza uma relação multissetorial entre universidade, indústria e sociedade, contribuindo para o fortalecimento de ações que fomentem o desenvolvimento regional. O projeto estará vinculado à Pró-Reitoria de Extensão (PROEXT) da Universidade Federal de Rondônia (UNIR), sob a execução de professores vinculados ao Departamento Acadêmico de Ciência da Computação (DACC). Os objetivos do projeto são:Analisar e identificar os gaps nas formações dos alunos. Fomentando a área de Android embarcado como uma área de interesse para o Departamento de Computação da UNIR;Capacitar, ao menos, 30 novos desenvolvedores na área software embarcado;Desenvolver 8 projetos que entreguem soluções na área de software embarcado;Habilitar estudantes do ensino superior e profissionais do mercado para atender demandas atuais e futuras de recursos humanos no estado e na região;Consolidar o atual laboratório do projeto, como um espaço local de referência no desenvolvimento e personalização das tecnologias de softwares para embarcação do sistema em novos dispositivos móveis.Site: https://palomakoba.unir.br/homepage." />
+            <PROJETO 
+                ANO-INICIO="2022" 
+                ANO-FIM="2023" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Papel de parede animado: customização de plano de fundo para smartphone Android usando Computação Gráfica" 
+                NATUREZA="Extensão"
+                DESCRICAO="Este projeto consiste na implementação de imagem em movimento para compor o plano de fundo de smartphones com sistema operacional Android. Assim, os participantes irão aplicar técnicas de computação gráfica de modelagem de cena, animação, tratamento de colisão, aplicação de textura e iluminação, além da operação de morphing para gerar a cena animada. Após, esta imagem customizada irá ser inserida, por meio de aplicativos, em smartphones Android, como papel de parede personalizado. Tais animações serão disponibilizadas à comunidade em geral para download para poderem usar em seus dispositivos. Este é um projeto de desenvolvimento de software, na área de tecnologia, para geração de conteúdo para usuários/clientes. Justificativa: O uso da computação gráfica tem crescido nos últimos anos. Assim, é importante que os discentes participantes tenham habilidades de trabalhar com tais técnicas a fim de poderem se posicionar no mercado de trabalho. Este trabalho irá desenvolver a criatividade de cada um, pois cada um escolheu seus próprios objetivos para modelar. Além disso, salvar tais cenas para serem usadas como plano de fundo em smartphones possibilita a divulgação dos trabalhos desenvolvidos no âmbito da Unir para a comunidade em geral.O objetivo geral deste projeto é desenvolver cenas animadas usando técnicas de computação gráfica para criar planos de fundo animados para smartphones com sistema operacional Android.Espera-se gerar neste projeto: (a) 4 produtos, ou seja, 4 cenas animadas para serem disponibilizadas à comunidade em geral, para distribuição livre e gratuita e instalação nos smartphones; (b) capacitar 6 alunos do curso de Ciência da Computação da Universidade Federal de Rondônia no desenvolvimento de software de computação gráfica, usando técnicas de modelagem de objetos, aplicação de textura, modelos de tonalização, operação de morphing dentre outros; (c) Desenvolver competências sócio-emocionais nos alunos de resiliência, trabalho em equipe e criatividade." />
+            <PROJETO 
+                ANO-INICIO="2022" 
+                ANO-FIM="2022" 
+                SITUACAO="CONCLUIDO" 
+                NOME="II Seminários em Inteligência Artificial" 
+                NATUREZA="Extensão"
+                DESCRICAO="O II Seminários em Inteligência Artificial visa apresentar aos discentes da área de Computação e Engenharias e comunidade externa aplicações de algoritmos de inteligência artificial e aprendizado de máquina. Essa é uma ação de extensão integrada com ensino, em que os participantes que irão apresentar seus trabalhos desenvolvem um projeto integrador na área de inteligência artificial. Os projetos desenvolvidos visam treinar os participantes em realizar apresentação em público, compreender a estrutura de um artigo científico e ter a experiência de implementar um sistema ou técnica em um problema real. Quanto aos ouvintes, o objetivo é dar visibilidade aos possíveis produtos que podem ser gerados na área de Ciência da Computação e mostrar aplicações e possíveis impactos na sociedade, organizações e indivíduos." />
+            <PROJETO 
+                ANO-INICIO="2021" 
+                ANO-FIM="2021" 
+                SITUACAO="CONCLUIDO" 
+                NOME="I Seminários em Inteligência Artificial - SIA 2021" 
+                NATUREZA="Extensão"  
+                DESCRICAO="O I Seminários em Inteligência Artificial visa apresentar aos discentes da área de Computação e Engenharias e comunidade externa aplicações de algoritmos de inteligência artificial e aprendizado de máquina. Essa é uma ação de extensão integrada com ensino, em que os participantes que irão apresentar seus trabalhos desenvolvem um projeto integrador na área de inteligência artificial. Os projetos desenvolvidos visam treinar os participantes em realizar apresentação em público, compreender a estrutura de um artigo científico e ter a experiência de implementar um sistema ou técnica em um problema real. Quanto aos ouvintes, o objetivo é dar visibilidade aos possíveis produtos que podem ser gerados na área de Ciência da Computação e mostrar aplicações e possíveis impactos na sociedade, organizações e indivíduos."/>
+            <PROJETO 
+                ANO-INICIO="2021" 
+                ANO-FIM="2021" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Introdução a linguagem Python e Ciência de Dados" 
+                NATUREZA="Extensão"  
+                DESCRICAO="Esta oficina visa a introdução à linguagem Python e aos conceitos básicos de Ciência de Dados. Com relação à linguagem Python, serão abordadas introdução à Numy e à Pandas: arrays, operações matemáticas, listas, loops alinhados e list coprehension, estatísticas com arrays, tuplas, métodos de dicionários, estruturadas de dados (series e data frame), consultas e tratamento de dados. Quanto à Ciência de Dados, serão trabalhos: importação, leitura e visualização de dados, modelo de classificação Random Forest, medidas de desempenho."/>
+            <PROJETO 
+                ANO-INICIO="2020" 
+                ANO-FIM="2020" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Educação e tecnologia em tempos de pandemia" 
+                NATUREZA="Extensão" 
+                DESCRICAO="Com o advento da pandemia causada pelo COVID-19, muitos desafios têm sido encontrados por gestores educacionais e professores. O uso da tecnologia tem se mostrado uma alternativa para a realização das atividades administrativas e didáticas. Entretanto, muitas escolas, universidades e professores não estão adaptados ao uso destas novas tecnologias. Assim, este projeto visa desenvolver ações de comunicação à comunidade educacional, envolvendo gestores, professores e profissionais de TI para sugerir e discutir soluções com o uso de tecnologia durante e após os tempos de pandemia bem como outras atividades relacionadas à gestão educacional. Como resultado esperado, busca-se auxiliar, com o conhecimento acadêmico, a comunidade educacional. Este projeto de extensão está institucionalizado na UNIR, código PJ073-2020, e vinculado ao Programa de Extensão Universitária do PPGA (código PG007-2020) - https://sigaa.unir.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/239." />
+        </PROJETOS-DE-EXTENSAO>
+        <PROJETOS-DE-DESENVOLVIMENTO>
+            <PROJETO 
+                ANO-INICIO="2024" 
+                ANO-FIM="2025" 
+                SITUACAO="CONCLUIDO" 
+                NOME="Desenvolvimento de software para identificação automática de blastos" 
+                NATUREZA="Desenvolvimento"
+                DESCRICAO="A leucemia é uma neoplasia hematológica caracterizada pelo surgimento de células imunes alteradas que sofrem hiperproliferação em diferentes estados de maturação. Globalmente, em 2020 a leucemia representou cerca de 2,5 de todos os tipos de câncer, equivalente a 475 mil casos diagnosticados. No Brasil, o número estimado de novos casos de leucemia para cada ano do triênio de 2023 a 2025 é de 11.540 casos. Um dos grandes gargalos no diagnóstico de leucemia consiste na necessidade da experiência do microscopista em identificar alterações de perfil leucêmico, principalmente a identificação de blastos na rotina clínica de centros que não são referência nos diagnósticos de doenças hematológicas. Na região norte, poucos profissionais possuem experiência na identificação de blastos, pois são facilmente confundidos com linfócitos reativos, fazendo com que a descrição hematológica seja equivocada, levando à liberação do paciente pelo médico. Este cenário é agravado em cidades do interior, havendo a necessidade do paciente ser direcionado as capitais para a realização de um diagnóstico preciso, o que pode dificultar a detecção precoce da doença. Logo, este projeto visa o desenvolvimento de uma ferramenta online de auxílio à identificação de blastos por análise automática de imagens de lâminas de microscopia. Para tanto, serão implementados métodos de inteligência artificial e processamento de imagens digitais para identificação de blastos e desenvolvido um site. Para este projeto, será organizada uma base de imagens a partir de imagens disponíveis online em centros de pesquisa. Avaliações da capacidade de reconhecimento dos blastos alvo pelo sistema serão realizadas em conjunto a especialistas de rotina de diagnóstico da FIOCRUZ que participam do projeto. Esperamos com este projeto, disponibilizar uma nova tecnologia que reduza as chances de erro técnico no diagnóstico de leucemias, auxiliando os profissionais envolvidos no processo de tomada de decisões e trazendo assim um benefício direto ao paciente."/>
+            <PROJETO 
+                ANO-INICIO="2023"
+                ANO-FIM="" 
+                SITUACAO="EM_ANDAMENTO" 
+                NOME="ICTIOBIOMETRIA: aplicativo de medição de peixes" 
+                NATUREZA="Desenvolvimento"
+                DESCRICAO="O I Seminários em Computação Gráfica tem por tema em sua primeira edição o título Explorando o Imaginário: Lendas e Mitos em Animação Digital. É uma ação realizada pelo Departamento Acadêmico de Ciência da Computação em que, os alunos que estão cursando a disciplina de Computação Gráfica são motivados a participarem da ação de extensão desenvolvendo um produto tecnológico. A proposta é desenvolver um software que apresente a modelagem de uma animação 3D de uma lenda, de preferência uma lenda amazônica. O software deve envolver os conceitos básicos de computação gráfica como transformações geométricas (rotação, translação e escala), tratamento de colisão de objetos. A proposta de tema transversal são as lendas amazônicas.Estudar lendas e mitos amazônicos como tema transversal no contexto de computação gráfica é de grande importância por várias razões:1. Valorização da Cultura e IdentidadeAs lendas e mitos amazônicos são parte integral da cultura e identidade dos povos da Amazônia. Incorporá-los em projetos de computação gráfica ajuda a valorizar e preservar essas histórias tradicionais, transmitindo conhecimentos ancestrais para as novas gerações (BETENDORFF, 2015; PINTO, 2018).2. Inovação CriativaA riqueza de narrativas e personagens dos mitos amazônicos oferece uma vasta fonte de inspiração para projetos criativos. A computação gráfica pode transformar essas histórias em animações, permitindo a criação de conteúdos originais e inovadores(SILVA, 2020; MENDES, 2019).3. Educação e Sensibilização AmbientalMuitos mitos amazônicos têm uma forte ligação com a natureza e refletem uma compreensão profunda do meio ambiente. Utilizar essas histórias em projetos de computação gráfica pode ser uma maneira eficaz de educar e sensibilizar o público sobre a importância da conservação ambiental e da biodiversidade da Amazônia (RAMOS, 2004).4. Inclusão e DiversidadeAo incorporar temas amazônicos, abre-se espaço para a inclusão de perspectivas diversas no campo da computação gráfica. Isso promove a diversidade cultural e pode estimular uma maior participação de artistas e desenvolvedores da região amazônica(SANTOS; OLIVEIRA, 2021) .5. Desenvolvimento de Habilidades InterdisciplinaresEstudar esses temas requer uma abordagem interdisciplinar, combinando conhecimentos de história, antropologia, biologia, além das habilidades técnicas de computação gráfica. Isso enriquece a formação dos estudantes e profissionais, ampliando sua capacidade de análise e criação (ALVES, 2019).6. Resgate e Atualização de Narrativas TradicionaisA computação gráfica oferece a oportunidade de resgatar e atualizar narrativas tradicionais, tornando-as mais acessíveis e atrativas para o público contemporâneo. Isso pode contribuir para a revitalização cultural e a continuidade dessas tradições (SILVA, 2020). Integrar lendas e mitos amazônicos no campo da computação gráfica não só enriquece o conteúdo e a criatividade dos projetos, mas também desempenha um papel crucial na preservação cultural, educação ambiental, e promoção da diversidade. É uma abordagem que pode trazer benefícios tanto culturais quanto econômicos, além de contribuir para um desenvolvimento mais sustentável e inclusivo da tecnologia (BARBOSA, 2024)."/>
+        </PROJETOS-DE-DESENVOLVIMENTO>
+        <PARTICIPACAO-EM-EVENTOS>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO 
+                NOME-DO-EVENTO="21st International Conference Applied Computing" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de 6 trabalhos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="8th Conference on Information Systems in Latin America" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação 1 artigo"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Congresso Transformação Digital 2024" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de 2 trabalhos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="VI Seminário Regional de Tecnologia Educacional - Inteligência Artificial na Educação" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Seminário"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO=""/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="WIT - 18º Women in Information Technology" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Outra"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de 04 trabalhos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="XXVII Seminários em Administração - SemeAD 2024" ANO-DO-EVENTO="2024" TIPO-DE-EVENTO="Seminário"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de 01 trabalho"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="20th International Conference on Applied Computing (AC 2023)" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de 02 trabalhos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Congresso Transformação Digital 2023" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Apresentação de Trabalhos Científicos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Congresso Transformação Digital 2023" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de trabalhos CTD 2023"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="WIT - Women in Information Technology" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de 06 artigos"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="XII ENCONTRO DE FÍSICA DE RONDÔNIA, XIII MOSTRA DE TRABALHOS ACADÊMICOS DO CURSO DE FÍSICA E VII WORKSHOP DO MESTRADO NACIONAL PROFISSIONAL EM ENSINO DE FÍSICA" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Encontro"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="IA e Educação: Desafios e Possibilidades"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="XXVI SEMEAD - Seminários em Administração" ANO-DO-EVENTO="2023" TIPO-DE-EVENTO="Seminário"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliação de um trabalho"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="AC 2022 : 19th International Conference Applied Computing" ANO-DO-EVENTO="2022" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Committee member - paper reviewer"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Congresso Transformação Digital CTD 2022" ANO-DO-EVENTO="2022" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de Trabalhos do Congresso Transformação Digital 2022"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="IV Encontro de Ensino e Pesquisa em Administração da Amazônia (EnEPA 2022)" ANO-DO-EVENTO="2022" TIPO-DE-EVENTO="Encontro"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora Artigo Científico e Artigo Tecnológico Tema 1: Administração I - Estratégia, Gestão e Tecnologia em Organizações"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Seminários em Administração - XXV SEMEAD 2022" ANO-DO-EVENTO="2022" TIPO-DE-EVENTO="Seminário"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de 03 trabalhos no XXIV SEMEAD - Seminários em Administração"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="XVII Jornada Científica CEDSA 2022" ANO-DO-EVENTO="2022" TIPO-DE-EVENTO="Outra"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora na modalidade Resumo e área temática Tecnologias e inovação"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="AC 2021: 18th International Conference Applied Computing" ANO-DO-EVENTO="2021" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de trabalhos - Committee Member"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Congresso Transformação Digital CTD 2021" ANO-DO-EVENTO="2021" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Avaliadora de Trabalhos do Congresso Transformação Digital 2021"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="Seminários em Administração - XXIV SEMEAD 2021" ANO-DO-EVENTO="2021" TIPO-DE-EVENTO="Seminário"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO="Moderadora de sessão de apresentação de trabalhos no XXIV SEMEAD - Seminários em Administração"/>
+            </EVENTO>
+            <EVENTO>
+                <DADOS-BASICOS-DO-EVENTO NOME-DO-EVENTO="The Fourteenth International Conference on Advanced Engineering Computing and Applications in Sciences - ADVCOMP 2021" ANO-DO-EVENTO="2021" TIPO-DE-EVENTO="Congresso"/>
+                <DETALHAMENTO-DO-EVENTO DESCRICAO=""/>
+            </EVENTO>
+        </PARTICIPACAO-EM-EVENTOS>
+        <PRODUCAO-TECNICA>
+    <PROGRAMA-DE-COMPUTADOR-SEMR>
+        <PROGRAMA-DE-COMPUTADOR 
+            ANO="2023"
+            TITULO-DO-PROGRAMA="Papel de parede animado: customização de plano de fundo para smartphone Android usando Computação Gráfica"
+            NATUREZA="Sem registro"
+            FINALIDADE="Personalização de dispositivos móveis"
+            AMBIENTE="Android"
+            FORMA-DE-PARTICIPACAO="Desenvolvedor(a)">
+            <AUTORES>
+                <AUTOR NOME-COMPLETO-DO-AUTOR="Watanabe, Carolina Y. V." ORDEM-DE-AUTORIA="1"/>
+                <AUTOR NOME-COMPLETO-DO-AUTOR="CUNHA, M. F." ORDEM-DE-AUTORIA="2"/>
+                <AUTOR NOME-COMPLETO-DO-AUTOR="LIMA, J. V. B." ORDEM-DE-AUTORIA="3"/>
+                <AUTOR NOME-COMPLETO-DO-AUTOR="SOUZA, S. R. A." ORDEM-DE-AUTORIA="4"/>
+            </AUTORES>
+        </PROGRAMA-DE-COMPUTADOR>
+    </PROGRAMA-DE-COMPUTADOR-SEMR>
+    <TRABALHOS-TECNICOS>
+        <TRABALHO-TECNICO ANO="2024" TITULO="Relatoria da ação de extensão Minicurso: introdução ao Overleaf para a produção de textos acadêmicos." NATUREZA="Relatoria"/>
+        <TRABALHO-TECNICO ANO="2024" TITULO="Parecer sobre o Processo de Progressão Funcional Docente Departamento Acadêmico de Ciência da Computação" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2024" TITULO="Parecer de Aproveitamento de Disciplina na disciplina Estrutura de Dados I" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2024" TITULO="Parecer de Aproveitamento das Disciplinas Estrutura de Dados I e Estrutura de Dados II" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="ICTIOBIOMETRIA: aplicativo de medição de peixes para auxílio ao monitoramento pesqueiro usando redes neurais profundas" NATUREZA="Desenvolvimento de software"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Desenvolvimento de software para identificação automática de blastos no rastreio precoce de leucemias por meio de análise imagens de microscopia" NATUREZA="Desenvolvimento de software"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Elaboração de horário de disciplinas 2023.2" NATUREZA="Organização acadêmica"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Parecer do projeto de pesquisa 'Auxílio ao diagnóstico de malária (plasmodium) usando imagens microscópicas: automatização usando aprendizado de máquina e desenvolvimento de aplicação WEB'" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Parecer sobre projeto de pesquisa 'Auxílio ao diagnóstico de malária (plasmodium) usando imagens microscópicas: automatização usando aprendizado de máquina e a abordagem radiômica'" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Parecer de avaliação do projeto de pesquisa 'Auxílio ao diagnóstico de fraturas por fragilidade óssea lombar usando aprendizado de máquina: análise comparativa entre as ponderações T1/T2 de ressonância magnética'" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2023" TITULO="Parecer de avaliação de projeto de pesquisa 'Auxílio ao diagnóstico de fraturas por fragilidade óssea lombar usando aprendizado de máquina: análise comparativa entre as ponderações T1 e gradiente eco de ressonância magnética'" NATUREZA="Parecer técnico"/>
+        <TRABALHO-TECNICO ANO="2021" TITULO="Relatório: Introdução a linguagem Python e Ciência de Dados" NATUREZA="Relatório técnico"/>
+        <TRABALHO-TECNICO ANO="2021" TITULO="Relatório do Evento de Extensão: I Seminários em Inteligência Artificial 2021" NATUREZA="Relatório de evento"/>
+        <TRABALHO-TECNICO ANO="2020" TITULO="Rondônia: Crime Florestal em Números 2013-2018" NATUREZA="Relatório técnico"/>
+        <TRABALHO-TECNICO ANO="2020" TITULO="Avaliadora de trabalhos no XXIII SEMEAD - Seminários em Administração. Trabalho(s) Avaliado(s): 1009, 1959, 2188." NATUREZA="Avaliação de trabalhos científicos"/>
+        <TRABALHO-TECNICO ANO="2020" TITULO="Avaliadora de trabalhos no 17th International Conference on Applied Computing (AC 2020) - 5 artigos" NATUREZA="Avaliação de trabalhos científicos"/>
+        <TRABALHO-TECNICO ANO="2020" TITULO="Avaliador de 02 trabalhos no CTD 2020" NATUREZA="Avaliação de trabalhos científicos"/>
+        <TRABALHO-TECNICO ANO="2020" TITULO="AVALIAÇÃO DE EFETIVIDADE: Resultados da CPE como política pública" NATUREZA="Relatório técnico"/>
+    </TRABALHOS-TECNICOS>
+</PRODUCAO-TECNICA>
+<PREMIOS-TITULOS>
+    <PREMIO-TITULO 
+        ANO-DO-PREMIO="2022" 
+        NOME-DO-PREMIO="PREMIO A LA INNOVACIÓN de la Feria 'Ayni, de los Andes al Estuario'" 
+        INSTITUICAO-PROMOTORA="Red Ciencia Ciudadana para la Amazonía"
+        DESCRICAO-DO-PREMIO="Reunião para a Ação Estratégica da Red Ciencia Ciudadana para la Amazonía, realizada em Quito, Equador"/>
+    
+    <PREMIO-TITULO 
+        ANO-DO-PREMIO="2022" 
+        NOME-DO-PREMIO="Menção honrosa pelo desempenho enquanto orientadora no ciclo 2021/2022"
+        INSTITUICAO-PROMOTORA="PIBIC/UNIR/CNPq"
+        DESCRICAO-DO-PREMIO="Programa Institucional de Bolsas e Trabalho Voluntário de Iniciação Científica - PIBIC/UNIR/CNPq"/>
+
+    <PREMIO-TITULO 
+        ANO-DO-PREMIO="2020" 
+        NOME-DO-PREMIO="Certificado de Destaque pelo desempenho e resultado de relatório do orientando João Abner Araújo Martins"
+        INSTITUICAO-PROMOTORA="PROPESQ/PIBIC/UNIR/CNPq"
+        DESCRICAO-DO-PREMIO="PIBITI-CNPq"/>
+
+    <PREMIO-TITULO 
+        ANO-DO-PREMIO="2020" 
+        NOME-DO-PREMIO="Certificado de Destaque pelo desempenho e resultado de relatório do orientando Marcus Vinícius Machado Martins"
+        INSTITUICAO-PROMOTORA="PROPESQ/PIBIC/UNIR/CNPq"
+        DESCRICAO-DO-PREMIO="PIBITI-CNPq"/>
+
+    <PREMIO-TITULO 
+        ANO-DO-PREMIO="2020" 
+        NOME-DO-PREMIO="Menção Honrosa pela qualidade do relatório final do bolsista João Abner Araújo Martins"
+        INSTITUICAO-PROMOTORA="PROPESQ/PIBIC/UNIR/CNPq"
+        DESCRICAO-DO-PREMIO="PIBITI-CNPq"/>
+</PREMIOS-TITULOS>
+
+    </DADOS-COMPLEMENTARES>
+</CURRICULO-VITAE>

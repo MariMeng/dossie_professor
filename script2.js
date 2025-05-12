@@ -5,7 +5,7 @@ var img_icon = document.getElementById("img_icon");
 var resumo_cv = document.getElementById("nome_instituto")
 var evento_div = document.getElementById("eventos");
 var formacao_academica = document.getElementById("formacao_academica")
-let formacoes_tipo = ["ENSINO-MEDIO-SEGUNDO-GRAU", "GRADUACAO", "MESTRADO", "DOUTORADO"];
+let formacoes_tipo = ["GRADUACAO", "MESTRADO", "DOUTORADO"];
 var divisoria = "<h2> /<h2>"
 var trabalhos = document.getElementById("trabalho_div")
 var complementares_div = document.getElementById("formacoes_complementares_div")
@@ -23,19 +23,12 @@ xhttp.onload = function(){
     if(this.readyState == 4 && this.status ==200){
     let dados = this.responseXML;
     let dados_gerais = dados.getElementsByTagName("DADOS-GERAIS");
-    let dados_complementares = dados.getElementsByTagName("DADOS-COMPLEMENTARES")
-    let endereco = dados.getElementsByTagName("ENDERECO")
-    let formacao_complementar = dados.getElementsByTagName("ENDERECO")//loop
     let eventos_seminario = dados.getElementsByTagName("PARTICIPACAO-EM-SEMINARIO") //loop
-    let info_adicional_instituto = dados.getElementsByTagName("ENDERECO") 
-    let info_adicional_cursos = dados.getElementsByTagName("ENDERECO")
     var novo_p = document.createElement('p')
     var complementar = dados.getElementsByTagName("FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO")
-    //var graduacao = dados.getElementsByTagName("GRADUACAO")
    var linhas = dados.getElementsByTagName("LINHA")
    let trabalho = dados.getElementsByTagName("TRABALHO");
    let proj_pesquisa = dados.getElementsByTagName("PROJETOS-DE-PESQUISA")[0].getElementsByTagName("PROJETO")
-    //nome.innerHTML =  dados_gerais[0].getAttribute("NOME-COMPLETO") //consigo já acessar os daods gerais
    let proj_extensao = dados.getElementsByTagName("PROJETOS-DE-EXTENSAO")[0].getElementsByTagName("PROJETO")
    let proj_desenvolvi = dados.getElementsByTagName("PROJETOS-DE-DESENVOLVIMENTO")[0].getElementsByTagName("PROJETO")
    let participacao_evento = dados.getElementsByTagName("EVENTO")
@@ -51,13 +44,12 @@ xhttp.onload = function(){
     resumo_div.append(novo_p)
 
     if(dados_gerais[0].getAttribute("SEXO") == "FEMININO")
-        img_icon.src="img/mulher.jpg"
+        img_icon.src="img/mulher4.png"
     else
-        img_icon.src="img/homem.jpg"
+        img_icon.src="img/homem2.png"
 
     //INSTITUICOES GRADUCAO, MESTRADO, DOUTORADO
  
-
     for(let formacoes of formacoes_tipo){
         console.log("entrou")
         if(formacoes !== null){
@@ -70,11 +62,11 @@ xhttp.onload = function(){
     
         tipo_formacao.innerHTML = formacoes + "<hr>"
         formacao_academica.appendChild(tipo_formacao)
-        titulo_instituo.innerHTML = "Nome da Instituicao:"+ graduacao[0].getAttribute("NOME-INSTITUICAO")
+        titulo_instituo.innerHTML = "Nome da Instituicao: "+ graduacao[0].getAttribute("NOME-INSTITUICAO")
         formacao_academica.appendChild(titulo_instituo)
-        nome_curso.innerHTML = "Nome do curso" + graduacao[0].getAttribute("NOME-CURSO")
+        nome_curso.innerHTML = "Nome do curso: " + graduacao[0].getAttribute("NOME-CURSO")
         if(graduacao[0].getAttribute("NOME-CURSO"))formacao_academica.appendChild(nome_curso)
-        ano_inicio.innerHTML = "Ano de inicio:"+ graduacao[0].getAttribute("ANO-DE-INICIO") + ":" +  graduacao[0].getAttribute("ANO-DE-CONCLUSAO")
+        ano_inicio.innerHTML = "Ano: "+ graduacao[0].getAttribute("ANO-DE-INICIO") + ":" +  graduacao[0].getAttribute("ANO-DE-CONCLUSAO")
         formacao_academica.appendChild(ano_inicio)
         status.innerHTML = "Status: "+ graduacao[0].getAttribute("STATUS-DO-CURSO")
         formacao_academica.appendChild(status)
@@ -129,18 +121,19 @@ xhttp.onload = function(){
     }
 
     //formacao complementar
-    for(let i = 0;i<trabalho.length;i++){
+    for(let i = 0;i<complementar.length;i++){
        var instituicao = document.createElement('p')
        var nome_curso = document.createElement('h3')
        var status = document.createElement('p')
        var ano = document.createElement('p')
+       var quebra_linha = document.createElement('p')
 
        instituicao.innerHTML = complementar[i].getAttribute("NOME-INSTITUICAO")
        nome_curso.innerHTML = complementar[i].getAttribute("NOME-CURSO")
        status.innerHTML = complementar[i].getAttribute("STATUS-DO-CURSO") 
        ano.innerHTML = complementar[i].getAttribute("ANO-DE-INICIO") + " - " + complementar[i].getAttribute("ANO-DE-CONCLUSAO")
-
-       complementares_div.append(nome_curso,instituicao,ano,status)       
+        quebra_linha.innerHTML="<hr><br>"
+       complementares_div.append(nome_curso,instituicao,ano,status, quebra_linha)       
    
     }
     //linhas de pesquisa
@@ -164,6 +157,7 @@ xhttp.onload = function(){
        var div_sobre = document.createElement('div')
        var div_descricao =  document.createElement('div')
        var div_nova = document.createElement('div')
+       div_nova.classList.add('div_nova');
 
        nome.innerHTML = proj_pesquisa[i].getAttribute("NOME")
        ano.innerHTML = proj_pesquisa[i].getAttribute("ANO-INICIO") + " - " + proj_pesquisa[i].getAttribute("ANO-FIM")
@@ -185,6 +179,7 @@ xhttp.onload = function(){
        var div_sobre = document.createElement('div')
        var div_descricao =  document.createElement('div')
        var div_nova = document.createElement('div')
+       div_nova.classList.add('div_nova');
 
        nome.innerHTML = proj_extensao[i].getAttribute("NOME")
        ano.innerHTML = proj_extensao[i].getAttribute("ANO-INICIO") + " - " + proj_extensao[i].getAttribute("ANO-FIM")
@@ -206,6 +201,7 @@ xhttp.onload = function(){
        var div_sobre = document.createElement('div')
        var div_descricao =  document.createElement('div')
        var div_nova = document.createElement('div')
+       div_nova.classList.add('div_nova');
 
        nome.innerHTML = proj_desenvolvi[i].getAttribute("NOME")
        ano.innerHTML = proj_desenvolvi[i].getAttribute("ANO-INICIO") + " - " + proj_extensao[i].getAttribute("ANO-FIM")
@@ -226,18 +222,20 @@ xhttp.onload = function(){
        var tipo = document.createElement('p')
        var div_sobre = document.createElement('div')
        var div_nova = document.createElement('div')
+       var quebra_linha = document.createElement('p')
+       div_nova.classList.add('div_nova');
 
        nome.innerHTML = dados.getElementsByTagName("DADOS-BASICOS-DO-EVENTO")[i].getAttribute("NOME-DO-EVENTO")
        ano.innerHTML = dados.getElementsByTagName("DADOS-BASICOS-DO-EVENTO")[i].getAttribute("ANO-DO-EVENTO") 
        tipo.innerHTML = dados.getElementsByTagName("DADOS-BASICOS-DO-EVENTO")[i].getAttribute("TIPO-DE-EVENTO")
        descricao.innerHTML = dados.getElementsByTagName("DETALHAMENTO-DO-EVENTO")[i].getAttribute("DESCRICAO")
+        quebra_linha.innerHTML = "<hr>"
 
-       div_sobre.append(nome, ano, tipo, descricao)
+       div_sobre.append(nome, ano, tipo, descricao, quebra_linha)
        div_nova.append(div_sobre);
        evento_div.append(div_nova)
 
     }
-
        //TRABALHOS TECNICOS
     for(let i = 0;i<trabalhos_tecnicos.length;i++){
        var titulo = document.createElement('h3')
@@ -272,7 +270,6 @@ xhttp.onload = function(){
 
 } else console.log("nao entrou")
 }
-
 
 xhttp.open("GET", "carolina_lattes.xml", true)
 
